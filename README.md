@@ -1,2 +1,2 @@
 # hello_cp
-hello colleage of computing 
+hello college of computing 
